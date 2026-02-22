@@ -1,0 +1,3 @@
+module.exports=[34981,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(31549);a.n(d("[project]/westsiderealty-intelligence/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},47354,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(31549);a.n(d("[project]/westsiderealty-intelligence/node_modules/next/dist/client/components/builtin/global-error.js"))},29024,a=>{"use strict";a.i(34981);var b=a.i(47354);a.n(b)}];
+
+//# sourceMappingURL=88247_next_dist_client_components_builtin_global-error_c2bf7afd.js.map

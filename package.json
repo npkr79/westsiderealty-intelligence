@@ -2,11 +2,18 @@
   "name": "westsiderealty-next",
   "version": "0.1.0",
   "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
+    "dev:crm": "npm run dev -w @westsiderealty/crm",
+    "build:crm": "npm run build -w @westsiderealty/crm",
+    "lint:crm": "npm run lint -w @westsiderealty/crm",
     "check:routes": "tsx scripts/check-routes.ts",
     "submit-sitemap": "tsx scripts/submit-sitemap.ts",
     "generate-favicons": "tsx scripts/generate-favicons.ts",

@@ -1,0 +1,3 @@
+module.exports=[9350,a=>{a.n(a.i(46048))},29960,a=>{a.n(a.i(55396))},61307,a=>{a.n(a.i(29797))},87669,a=>{a.n(a.i(15539))},98130,a=>{"use strict";var b=a.i(67728);function c(){return(0,b.jsxs)("main",{style:{padding:"2rem",fontFamily:"sans-serif"},children:[(0,b.jsx)("h1",{children:"CRM App Scaffold"}),(0,b.jsx)("p",{children:"Next step: migrate admin and lead management routes here."})]})}a.s(["default",()=>c])}];
+
+//# sourceMappingURL=westsiderealty-intelligence_bfe8e1c6._.js.map

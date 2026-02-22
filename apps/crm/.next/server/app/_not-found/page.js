@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/westsiderealty-intelligence_66b37d6e._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__737af13b._.js")
+R.c("server/chunks/ssr/88247_next_dist_esm_build_templates_app-page_dfe8cf2a.js")
+R.c("server/chunks/ssr/[root-of-the-server]__6fc62c4a._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__fbbbc7db._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__66b9e325._.js")
+R.c("server/chunks/ssr/westsiderealty-intelligence_apps_crm_app_layout_tsx_118453c4._.js")
+R.c("server/chunks/ssr/88247_next_dist_client_components_620e6f10._.js")
+R.c("server/chunks/ssr/88247_next_dist_client_components_builtin_forbidden_ccc92fd6.js")
+R.c("server/chunks/ssr/ac322_apps_crm__next-internal_server_app__not-found_page_actions_063841ac.js")
+R.m(1847)
+module.exports=R.m(1847).exports
